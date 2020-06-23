@@ -1,0 +1,19 @@
+{
+  "name": "mern_shopping_list",
+  "version": "1.0.0",
+  "description": "MERN tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylejbennett/mern_shopping_list.git"
+  },
+  "author": "Kyle Bennett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylejbennett/mern_shopping_list/issues"
+  },
+  "homepage": "https://github.com/kylejbennett/mern_shopping_list#readme"
+}
